@@ -86,6 +86,21 @@ If you use BioWorth in your research, publications, reports, or projects, please
 The Zenodo record contains the publicly available BioWorth User Guideline. The application is access-controlled, and its source code is not publicly distributed.
 
 
+## 📚 Citation
+
+BioWorth is registered on Zenodo as a research software documentation record and is assigned a Digital Object Identifier (DOI).
+
+If you use BioWorth in your research, publications, reports, or projects, please cite the following reference:
+
+**Sadeghi Sheshdeh, A., & Khoshnevisan, B. (2026).** *BioWorth: A Web-Based Tool for Techno-Economic Assessment of Green Biorefineries*. Zenodo. https://doi.org/10.5281/zenodo.23388101
+
+**DOI:** [10.5281/zenodo.23388101](https://doi.org/10.5281/zenodo.23388101)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23388101.svg)](https://doi.org/10.5281/zenodo.23388101)
+
+The Zenodo record contains the publicly available BioWorth User Guideline. The application is access-controlled, and its source code is not publicly distributed.
+
+
 ## 🎯 Project Vision
 
 BioWorth has been developed to make **economic assessment more understandable, accessible, and actionable**.
